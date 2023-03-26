@@ -1,3 +1,9 @@
+Check this live 
+Its is deployed on firebase
+
+Link to live app :  https://netflix-clone-c717d.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
